@@ -1,4 +1,4 @@
-const { leerInput } = require('./helpers/inquirer');
+const { leerInput, inquirerMenu, pausa} = require('./helpers/inquirer');
 
 
 const main = async() => {
